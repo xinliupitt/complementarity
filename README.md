@@ -2,7 +2,7 @@
 
 This repo provides information for the manuscript "Uncovering and estimating complementarity in urban lives".
 
-If readers can fetch the Foursquare Future Cities Challenge dataset, they can input the data into the following files to fetch some key ideas introduced in the manuscript.
+If readers can fetch the Foursquare Future Cities Challenge dataset, they can input the data into the following files to understand some key ideas introduced in the manuscript.
 
 `simulation_chicago_period_b_nb.py` is to generate the simulated data to represent the base demand. Sample command to run this file:
 ```
